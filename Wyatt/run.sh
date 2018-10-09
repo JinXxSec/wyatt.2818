@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd /opt/wyatt
+python /opt/wyatt/wyatt.py
